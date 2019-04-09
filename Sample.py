@@ -16,7 +16,7 @@ def fact(n):
 
 def main(n):
     res = fact(n)
-    print(res)
+    print res
 
 
 if __name__ == '__main__' and len(sys.argv) > 1:
